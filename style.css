@@ -2,3 +2,20 @@ html {
   height: 100%;
   width: 100%;
 }
+
+body{
+  background-color: grey;
+}
+
+h3{
+  color: green;
+}
+
+.green{
+  color:blue;
+}
+
+#red{
+  color:red;
+}
+
